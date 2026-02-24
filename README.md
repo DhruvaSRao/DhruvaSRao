@@ -9,7 +9,7 @@ Looking ahead, my ambition is to establish myself as a proficient software engin
 ## 🛠 Tech Stack
 
 ### 🚀 Web & Backend
-![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts)
+![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,html,css,tailwind,bootstrap)
 
 ### 💻 Languages
 ![Languages](https://skillicons.dev/icons?i=c,python,java)
@@ -21,14 +21,14 @@ Looking ahead, my ambition is to establish myself as a proficient software engin
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/dhruva-s-rao-2a4657354/?originalSubdomain=in" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/64dhruva" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://leetcode.com/u/DhruvaSRao/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
