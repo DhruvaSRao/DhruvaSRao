@@ -9,7 +9,7 @@ Looking ahead, my ambition is to establish myself as a proficient software engin
 ## 🛠 Tech Stack
 
 ### 🚀 Web & Backend
-![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,html,css,tailwind,bootstrap)
+![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,html,css,tailwind,bootstrap,mysql)
 
 ### 💻 Languages
 ![Languages](https://skillicons.dev/icons?i=c,python,java)
